@@ -1,0 +1,11 @@
+&inputpp
+    outdir='./out/'
+    prefix='aiida',
+    plot_num=0
+/
+&plot
+    iflag=3,
+    output_format=3,
+    fileout='hhk.xsf',
+    nx=64, ny=64, nz=64,
+/

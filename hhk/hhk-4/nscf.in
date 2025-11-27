@@ -1,0 +1,41 @@
+&CONTROL
+  calculation = 'nscf'
+  etot_conv_thr =   2.0000000000d-05
+  forc_conv_thr =   1.0000000000d-04
+  outdir = './out/'
+  prefix = 'aiida'
+  pseudo_dir = '../../pseudo/'
+  tprnfor = .true.
+  tstress = .true.
+  verbosity = 'high'
+/
+&SYSTEM
+  degauss =   2.0000000000d-02
+  ecutrho =   2.4000000000d+02
+  ecutwfc =   3.0000000000d+01
+  ibrav = 0
+  nat = 4
+  nosym = .false.
+  ntyp = 1
+  occupations = 'smearing'
+  smearing = 'cold'
+/
+&ELECTRONS
+  conv_thr =   8.0000000000d-10
+  electron_maxstep = 80
+  mixing_beta =   4.0000000000d-01
+/
+ATOMIC_SPECIES
+Si     28.0855 Si.pbe.upf
+
+ATOMIC_POSITIONS (crystal)
+Si           0.5000000000       0.5000000000       0.5000000000
+Si           0.5000000000       0.1160000000       0.5000000000
+Si           0.8840000000       0.5000000000       0.5000000000
+Si           0.2945000000       0.7055000000       0.5520000000
+CELL_PARAMETERS angstrom
+      6.0962720000       0.0000000000       0.0000000000
+     -3.0481360000       5.2795264203       0.0000000000
+      0.0000000000       0.0000000000      20.0000000000
+K_POINTS automatic
+11 11 1 0 0 0

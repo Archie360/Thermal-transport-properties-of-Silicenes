@@ -1,0 +1,349 @@
+        _                      _____
+  _ __ | |__   ___  _ __   ___|___ / _ __  _   _
+ | '_ \| '_ \ / _ \| '_ \ / _ \ |_ \| '_ \| | | |
+ | |_) | | | | (_) | | | | (_) |__) | |_) | |_| |
+ | .__/|_| |_|\___/|_| |_|\___/____/| .__/ \__, |
+ |_|                                |_|    |___/ 
+                                       3.4.0
+
+-------------------------[time 2024-11-13 05:00:42]-------------------------
+Compiled with OpenMP support (max 12 threads).
+Python version 3.12.1
+Spglib version 2.5.0
+
+Unit cell was read from "../scf1.in".
+-------------------------------- unit cell ---------------------------------
+Lattice vectors:
+  a   11.298740603561031    0.000000000000000    0.000000000000000
+  b   -5.649370301780515    9.784996393375781    0.000000000000000
+  c    0.000000000000000    0.000000000000000   37.794522740993806
+Atomic positions (fractional):
+    1 Si  0.50000000000000  0.50000000000000  0.50000000000000  28.085
+    2 Si  0.50000000000000  0.11600000000000  0.50000000000000  28.085
+    3 Si  0.88400000000000  0.50000000000000  0.50000000000000  28.085
+    4 Si  0.29450000000000  0.70550000000000  0.55200000000000  28.085
+----------------------------------------------------------------------------
+Supercell (dim): [2 2 1]
+Displacement distance: 0.06
+Number of displacements: 1182
+Cutoff distance for displacements: 6.0
+Number of displacement supercell files created: 310
+Spacegroup: Cm (8)
+Displacement dataset was written in "phono3py_disp.yaml".
+-------------------------[time 2024-11-13 05:00:42]-------------------------
+                 _
+   ___ _ __   __| |
+  / _ \ '_ \ / _` |
+ |  __/ | | | (_| |
+  \___|_| |_|\__,_|
+
+Created ./scf-job/scf_supercell-00001.in
+Created ./scf-job/scf_supercell-00002.in
+Created ./scf-job/scf_supercell-00003.in
+Created ./scf-job/scf_supercell-00004.in
+Created ./scf-job/scf_supercell-00005.in
+Created ./scf-job/scf_supercell-00006.in
+Created ./scf-job/scf_supercell-00007.in
+Created ./scf-job/scf_supercell-00008.in
+Created ./scf-job/scf_supercell-00009.in
+Created ./scf-job/scf_supercell-00010.in
+Created ./scf-job/scf_supercell-00011.in
+Created ./scf-job/scf_supercell-00012.in
+Created ./scf-job/scf_supercell-00013.in
+Created ./scf-job/scf_supercell-00014.in
+Created ./scf-job/scf_supercell-00015.in
+Created ./scf-job/scf_supercell-00016.in
+Created ./scf-job/scf_supercell-00017.in
+Created ./scf-job/scf_supercell-00018.in
+Created ./scf-job/scf_supercell-00019.in
+Created ./scf-job/scf_supercell-00020.in
+Created ./scf-job/scf_supercell-00039.in
+Created ./scf-job/scf_supercell-00040.in
+Created ./scf-job/scf_supercell-00041.in
+Created ./scf-job/scf_supercell-00042.in
+Created ./scf-job/scf_supercell-00043.in
+Created ./scf-job/scf_supercell-00044.in
+Created ./scf-job/scf_supercell-00063.in
+Created ./scf-job/scf_supercell-00064.in
+Created ./scf-job/scf_supercell-00065.in
+Created ./scf-job/scf_supercell-00066.in
+Created ./scf-job/scf_supercell-00067.in
+Created ./scf-job/scf_supercell-00068.in
+Created ./scf-job/scf_supercell-00087.in
+Created ./scf-job/scf_supercell-00088.in
+Created ./scf-job/scf_supercell-00089.in
+Created ./scf-job/scf_supercell-00090.in
+Created ./scf-job/scf_supercell-00091.in
+Created ./scf-job/scf_supercell-00092.in
+Created ./scf-job/scf_supercell-00111.in
+Created ./scf-job/scf_supercell-00112.in
+Created ./scf-job/scf_supercell-00113.in
+Created ./scf-job/scf_supercell-00114.in
+Created ./scf-job/scf_supercell-00115.in
+Created ./scf-job/scf_supercell-00116.in
+Created ./scf-job/scf_supercell-00135.in
+Created ./scf-job/scf_supercell-00136.in
+Created ./scf-job/scf_supercell-00137.in
+Created ./scf-job/scf_supercell-00138.in
+Created ./scf-job/scf_supercell-00139.in
+Created ./scf-job/scf_supercell-00140.in
+Created ./scf-job/scf_supercell-00159.in
+Created ./scf-job/scf_supercell-00160.in
+Created ./scf-job/scf_supercell-00161.in
+Created ./scf-job/scf_supercell-00162.in
+Created ./scf-job/scf_supercell-00163.in
+Created ./scf-job/scf_supercell-00164.in
+Created ./scf-job/scf_supercell-00183.in
+Created ./scf-job/scf_supercell-00184.in
+Created ./scf-job/scf_supercell-00185.in
+Created ./scf-job/scf_supercell-00186.in
+Created ./scf-job/scf_supercell-00187.in
+Created ./scf-job/scf_supercell-00188.in
+Created ./scf-job/scf_supercell-00207.in
+Created ./scf-job/scf_supercell-00208.in
+Created ./scf-job/scf_supercell-00209.in
+Created ./scf-job/scf_supercell-00210.in
+Created ./scf-job/scf_supercell-00221.in
+Created ./scf-job/scf_supercell-00222.in
+Created ./scf-job/scf_supercell-00223.in
+Created ./scf-job/scf_supercell-00224.in
+Created ./scf-job/scf_supercell-00225.in
+Created ./scf-job/scf_supercell-00226.in
+Created ./scf-job/scf_supercell-00245.in
+Created ./scf-job/scf_supercell-00246.in
+Created ./scf-job/scf_supercell-00247.in
+Created ./scf-job/scf_supercell-00248.in
+Created ./scf-job/scf_supercell-00259.in
+Created ./scf-job/scf_supercell-00260.in
+Created ./scf-job/scf_supercell-00261.in
+Created ./scf-job/scf_supercell-00262.in
+Created ./scf-job/scf_supercell-00273.in
+Created ./scf-job/scf_supercell-00274.in
+Created ./scf-job/scf_supercell-00275.in
+Created ./scf-job/scf_supercell-00276.in
+Created ./scf-job/scf_supercell-00277.in
+Created ./scf-job/scf_supercell-00278.in
+Created ./scf-job/scf_supercell-00297.in
+Created ./scf-job/scf_supercell-00298.in
+Created ./scf-job/scf_supercell-00299.in
+Created ./scf-job/scf_supercell-00300.in
+Created ./scf-job/scf_supercell-00311.in
+Created ./scf-job/scf_supercell-00312.in
+Created ./scf-job/scf_supercell-00313.in
+Created ./scf-job/scf_supercell-00314.in
+Created ./scf-job/scf_supercell-00315.in
+Created ./scf-job/scf_supercell-00316.in
+Created ./scf-job/scf_supercell-00335.in
+Created ./scf-job/scf_supercell-00336.in
+Created ./scf-job/scf_supercell-00337.in
+Created ./scf-job/scf_supercell-00338.in
+Created ./scf-job/scf_supercell-00339.in
+Created ./scf-job/scf_supercell-00340.in
+Created ./scf-job/scf_supercell-00359.in
+Created ./scf-job/scf_supercell-00360.in
+Created ./scf-job/scf_supercell-00361.in
+Created ./scf-job/scf_supercell-00362.in
+Created ./scf-job/scf_supercell-00363.in
+Created ./scf-job/scf_supercell-00364.in
+Created ./scf-job/scf_supercell-00395.in
+Created ./scf-job/scf_supercell-00396.in
+Created ./scf-job/scf_supercell-00397.in
+Created ./scf-job/scf_supercell-00398.in
+Created ./scf-job/scf_supercell-00399.in
+Created ./scf-job/scf_supercell-00400.in
+Created ./scf-job/scf_supercell-00407.in
+Created ./scf-job/scf_supercell-00408.in
+Created ./scf-job/scf_supercell-00409.in
+Created ./scf-job/scf_supercell-00410.in
+Created ./scf-job/scf_supercell-00411.in
+Created ./scf-job/scf_supercell-00412.in
+Created ./scf-job/scf_supercell-00431.in
+Created ./scf-job/scf_supercell-00432.in
+Created ./scf-job/scf_supercell-00433.in
+Created ./scf-job/scf_supercell-00434.in
+Created ./scf-job/scf_supercell-00435.in
+Created ./scf-job/scf_supercell-00436.in
+Created ./scf-job/scf_supercell-00455.in
+Created ./scf-job/scf_supercell-00456.in
+Created ./scf-job/scf_supercell-00457.in
+Created ./scf-job/scf_supercell-00458.in
+Created ./scf-job/scf_supercell-00459.in
+Created ./scf-job/scf_supercell-00460.in
+Created ./scf-job/scf_supercell-00491.in
+Created ./scf-job/scf_supercell-00492.in
+Created ./scf-job/scf_supercell-00493.in
+Created ./scf-job/scf_supercell-00494.in
+Created ./scf-job/scf_supercell-00495.in
+Created ./scf-job/scf_supercell-00496.in
+Created ./scf-job/scf_supercell-00503.in
+Created ./scf-job/scf_supercell-00504.in
+Created ./scf-job/scf_supercell-00505.in
+Created ./scf-job/scf_supercell-00506.in
+Created ./scf-job/scf_supercell-00507.in
+Created ./scf-job/scf_supercell-00508.in
+Created ./scf-job/scf_supercell-00527.in
+Created ./scf-job/scf_supercell-00528.in
+Created ./scf-job/scf_supercell-00529.in
+Created ./scf-job/scf_supercell-00530.in
+Created ./scf-job/scf_supercell-00531.in
+Created ./scf-job/scf_supercell-00532.in
+Created ./scf-job/scf_supercell-00551.in
+Created ./scf-job/scf_supercell-00552.in
+Created ./scf-job/scf_supercell-00553.in
+Created ./scf-job/scf_supercell-00554.in
+Created ./scf-job/scf_supercell-00555.in
+Created ./scf-job/scf_supercell-00556.in
+Created ./scf-job/scf_supercell-00587.in
+Created ./scf-job/scf_supercell-00588.in
+Created ./scf-job/scf_supercell-00589.in
+Created ./scf-job/scf_supercell-00590.in
+Created ./scf-job/scf_supercell-00591.in
+Created ./scf-job/scf_supercell-00592.in
+Created ./scf-job/scf_supercell-00599.in
+Created ./scf-job/scf_supercell-00600.in
+Created ./scf-job/scf_supercell-00601.in
+Created ./scf-job/scf_supercell-00602.in
+Created ./scf-job/scf_supercell-00603.in
+Created ./scf-job/scf_supercell-00604.in
+Created ./scf-job/scf_supercell-00623.in
+Created ./scf-job/scf_supercell-00624.in
+Created ./scf-job/scf_supercell-00625.in
+Created ./scf-job/scf_supercell-00626.in
+Created ./scf-job/scf_supercell-00627.in
+Created ./scf-job/scf_supercell-00628.in
+Created ./scf-job/scf_supercell-00647.in
+Created ./scf-job/scf_supercell-00648.in
+Created ./scf-job/scf_supercell-00649.in
+Created ./scf-job/scf_supercell-00650.in
+Created ./scf-job/scf_supercell-00651.in
+Created ./scf-job/scf_supercell-00652.in
+Created ./scf-job/scf_supercell-00683.in
+Created ./scf-job/scf_supercell-00684.in
+Created ./scf-job/scf_supercell-00685.in
+Created ./scf-job/scf_supercell-00686.in
+Created ./scf-job/scf_supercell-00687.in
+Created ./scf-job/scf_supercell-00688.in
+Created ./scf-job/scf_supercell-00695.in
+Created ./scf-job/scf_supercell-00696.in
+Created ./scf-job/scf_supercell-00697.in
+Created ./scf-job/scf_supercell-00698.in
+Created ./scf-job/scf_supercell-00699.in
+Created ./scf-job/scf_supercell-00700.in
+Created ./scf-job/scf_supercell-00719.in
+Created ./scf-job/scf_supercell-00720.in
+Created ./scf-job/scf_supercell-00721.in
+Created ./scf-job/scf_supercell-00722.in
+Created ./scf-job/scf_supercell-00723.in
+Created ./scf-job/scf_supercell-00724.in
+Created ./scf-job/scf_supercell-00743.in
+Created ./scf-job/scf_supercell-00744.in
+Created ./scf-job/scf_supercell-00745.in
+Created ./scf-job/scf_supercell-00746.in
+Created ./scf-job/scf_supercell-00747.in
+Created ./scf-job/scf_supercell-00748.in
+Created ./scf-job/scf_supercell-00779.in
+Created ./scf-job/scf_supercell-00780.in
+Created ./scf-job/scf_supercell-00781.in
+Created ./scf-job/scf_supercell-00782.in
+Created ./scf-job/scf_supercell-00783.in
+Created ./scf-job/scf_supercell-00784.in
+Created ./scf-job/scf_supercell-00791.in
+Created ./scf-job/scf_supercell-00792.in
+Created ./scf-job/scf_supercell-00793.in
+Created ./scf-job/scf_supercell-00794.in
+Created ./scf-job/scf_supercell-00795.in
+Created ./scf-job/scf_supercell-00796.in
+Created ./scf-job/scf_supercell-00815.in
+Created ./scf-job/scf_supercell-00816.in
+Created ./scf-job/scf_supercell-00817.in
+Created ./scf-job/scf_supercell-00818.in
+Created ./scf-job/scf_supercell-00819.in
+Created ./scf-job/scf_supercell-00820.in
+Created ./scf-job/scf_supercell-00839.in
+Created ./scf-job/scf_supercell-00840.in
+Created ./scf-job/scf_supercell-00841.in
+Created ./scf-job/scf_supercell-00842.in
+Created ./scf-job/scf_supercell-00843.in
+Created ./scf-job/scf_supercell-00844.in
+Created ./scf-job/scf_supercell-00875.in
+Created ./scf-job/scf_supercell-00876.in
+Created ./scf-job/scf_supercell-00877.in
+Created ./scf-job/scf_supercell-00878.in
+Created ./scf-job/scf_supercell-00879.in
+Created ./scf-job/scf_supercell-00880.in
+Created ./scf-job/scf_supercell-00887.in
+Created ./scf-job/scf_supercell-00888.in
+Created ./scf-job/scf_supercell-00889.in
+Created ./scf-job/scf_supercell-00890.in
+Created ./scf-job/scf_supercell-00891.in
+Created ./scf-job/scf_supercell-00892.in
+Created ./scf-job/scf_supercell-00923.in
+Created ./scf-job/scf_supercell-00924.in
+Created ./scf-job/scf_supercell-00925.in
+Created ./scf-job/scf_supercell-00926.in
+Created ./scf-job/scf_supercell-00927.in
+Created ./scf-job/scf_supercell-00928.in
+Created ./scf-job/scf_supercell-00941.in
+Created ./scf-job/scf_supercell-00942.in
+Created ./scf-job/scf_supercell-00943.in
+Created ./scf-job/scf_supercell-00944.in
+Created ./scf-job/scf_supercell-00945.in
+Created ./scf-job/scf_supercell-00946.in
+Created ./scf-job/scf_supercell-00959.in
+Created ./scf-job/scf_supercell-00960.in
+Created ./scf-job/scf_supercell-00961.in
+Created ./scf-job/scf_supercell-00962.in
+Created ./scf-job/scf_supercell-00963.in
+Created ./scf-job/scf_supercell-00964.in
+Created ./scf-job/scf_supercell-00983.in
+Created ./scf-job/scf_supercell-00984.in
+Created ./scf-job/scf_supercell-00985.in
+Created ./scf-job/scf_supercell-00986.in
+Created ./scf-job/scf_supercell-00987.in
+Created ./scf-job/scf_supercell-00988.in
+Created ./scf-job/scf_supercell-01019.in
+Created ./scf-job/scf_supercell-01020.in
+Created ./scf-job/scf_supercell-01021.in
+Created ./scf-job/scf_supercell-01022.in
+Created ./scf-job/scf_supercell-01023.in
+Created ./scf-job/scf_supercell-01024.in
+Created ./scf-job/scf_supercell-01037.in
+Created ./scf-job/scf_supercell-01038.in
+Created ./scf-job/scf_supercell-01039.in
+Created ./scf-job/scf_supercell-01040.in
+Created ./scf-job/scf_supercell-01041.in
+Created ./scf-job/scf_supercell-01042.in
+Created ./scf-job/scf_supercell-01055.in
+Created ./scf-job/scf_supercell-01056.in
+Created ./scf-job/scf_supercell-01057.in
+Created ./scf-job/scf_supercell-01058.in
+Created ./scf-job/scf_supercell-01059.in
+Created ./scf-job/scf_supercell-01060.in
+Created ./scf-job/scf_supercell-01079.in
+Created ./scf-job/scf_supercell-01080.in
+Created ./scf-job/scf_supercell-01081.in
+Created ./scf-job/scf_supercell-01082.in
+Created ./scf-job/scf_supercell-01105.in
+Created ./scf-job/scf_supercell-01106.in
+Created ./scf-job/scf_supercell-01107.in
+Created ./scf-job/scf_supercell-01108.in
+Created ./scf-job/scf_supercell-01109.in
+Created ./scf-job/scf_supercell-01110.in
+Created ./scf-job/scf_supercell-01117.in
+Created ./scf-job/scf_supercell-01118.in
+Created ./scf-job/scf_supercell-01119.in
+Created ./scf-job/scf_supercell-01120.in
+Created ./scf-job/scf_supercell-01131.in
+Created ./scf-job/scf_supercell-01132.in
+Created ./scf-job/scf_supercell-01133.in
+Created ./scf-job/scf_supercell-01134.in
+Created ./scf-job/scf_supercell-01157.in
+Created ./scf-job/scf_supercell-01158.in
+Created ./scf-job/scf_supercell-01159.in
+Created ./scf-job/scf_supercell-01160.in
+Created ./scf-job/scf_supercell-01161.in
+Created ./scf-job/scf_supercell-01162.in
+Created ./scf-job/scf_supercell-01169.in
+Created ./scf-job/scf_supercell-01170.in
+Created ./scf-job/scf_supercell-01171.in
+Created ./scf-job/scf_supercell-01172.in

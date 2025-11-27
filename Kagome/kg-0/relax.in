@@ -1,0 +1,43 @@
+&CONTROL
+  calculation = 'vc-relax'
+  etot_conv_thr =   4.0000000000d-05
+  forc_conv_thr =   1.0000000000d-04
+  outdir = './out/'
+  prefix = 'aiida'
+  pseudo_dir = '/home/vm0158/quantum_espresso/FS-Silicene/pseudo'
+  tprnfor = .true.
+  tstress = .true.
+  verbosity = 'high'
+/
+&SYSTEM
+  a   = 4.4584
+  c  = 20
+  ibrav       = 4
+  nat         = 3
+  ntyp        = 1
+  degauss     =  0.02
+  ecutwfc     =  10
+  occupations = 'smearing'
+  smearing    = 'gaussian'
+/
+
+&ELECTRONS
+  conv_thr =   1.0d-8
+  mixing_beta =  0.4
+/
+&IONS
+  ion_dynamics = 'bfgs'
+/
+&CELL 
+  cell_dynamics = 'bfgs'
+  press_conv_thr = 0.05
+  cell_dofree = '2Dxy'
+/
+ATOMIC_SPECIES
+Si     28.0855 Si.pbesol-n-rrkjus_psl.1.0.0.UPF
+ATOMIC_POSITIONS crystal
+Si           0.2500000000       0.2500000000       0.5000000000 
+Si           0.7500000000       0.2500000000       0.5000000000 
+Si           0.7500000000       0.7500000000       0.5000000000
+K_POINTS automatic
+8 8 2 0 0 0
